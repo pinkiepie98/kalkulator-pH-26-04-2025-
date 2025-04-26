@@ -17,7 +17,6 @@ st.markdown("""
 
 
 
-st.set_page_config(page_title="Kalkulator pH & pOH", layout="centered")
 
 # Title
 st.title("🧫 Kalkulator penghitungan koloni bakteri 🦠 ")
