@@ -1,6 +1,22 @@
 import streamlit as st
 import math
 
+st.markdown("""
+    <style>
+    .main {
+        background-color: #f0f2f6;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    .title {
+        color: #4CAF50;
+        text-align: center;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+
+
 st.set_page_config(page_title="Kalkulator pH & pOH", layout="centered")
 
 # Title
