@@ -4,11 +4,11 @@ import math
 st.set_page_config(page_title="Kalkulator pH & pOH", layout="centered")
 
 # Title
-st.title("🧫 Kalkulator menghitung koloni bakteri 🦠 ")
+st.title("🧫 Kalkulator penghitungan koloni bakteri 🦠 ")
 
 # Description
 st.write("""
-Aplikasi ini membantu menghitung nilai pH dan pOH larutan berdasarkan input konsentrasi ion [H⁺] atau [OH⁻].
+Aplikasi sederhana untuk menghitung jumlah koloni bakteri per mL sampel.
 """)
 
 # Sidebar for input
