@@ -9,7 +9,7 @@ st.markdown("""
         border-radius: 10px;
     }
     .title {
-        color: #4CAF50;
+        color: #E4EFE7;
         text-align: center;
     }
     </style>
