@@ -15,11 +15,10 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+st.markdown('<div class="main">', unsafe_allow_html=True)
+st.markdown('<h1 class="title">🧫 Kalkulator Koloni Bakteri 🦠 </h1>', unsafe_allow_html=True)
 
 
-
-# Title
-st.title("🧫 Kalkulator penghitungan koloni bakteri 🦠 ")
 
 # Description
 st.write("""
